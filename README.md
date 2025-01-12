@@ -1,6 +1,6 @@
 # Game Command Terminal 2
 
-This is a library that allows the use of custom scripts in the game Red Dead Redemption 2 and Red Dead Online. It supports scripts in Python, Lua, and C++. The library is available in two languages: English and Russian. 
+This is a library that helps you use custom scripts in the game Red Dead Redemption 2 and Red Dead Online. It supports scripts in Python, Lua, and C++. The library is available in two languages: English and Russian.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Installation should be done automatically at the first start of `Launcher.exe` y
 
 ## Usage
 
-If you are a developer, you can create scripts in a GCT2 supported programming language and place them in the Scripts folder, from which they will be automatically launched when GCT2 starts, or if GCT2 is already running you can enter the restart scripts command in the console to restart all scripts and run new ones. GCT2 itself can be launched with the help of `Launcher.exe`, a programme that allows you to introduce GCT2 into the game during the game and also with the help of Launcher you can customise GCT2 for yourself. Also in the Launcher there is a built-in terminal, but for its correct operation you need to disable the in-game console in the environment settings, on the terminal tab there is a button `Commands` in the lower right corner, which provides a list of commands that can be entered into the terminal and their detailed description.
+If you are a developer, you can create scripts in a GCT2 supported programming language and place them in the Scripts folder, from which they will be automatically launched when GCT2 starts, or if GCT2 is already running you can enter the restart scripts command in the console to restart all scripts and run new ones. GCT2 can be launched with the help of `Launcher.exe`, a programme that helps you to inject GCT2 into the game during the game and also with the help of Launcher you can customise GCT2 for yourself. Also in the Launcher there is a built-in terminal, but for its correct operation you need to disable the in-game console in the environment settings, on the terminal tab there is a button `Commands` in the lower right corner, which provides a list of commands that can be entered into the terminal and their detailed description.
 
 If you are not a developer you can start GCT2 and use the terminal to enter commands such as `set time` or `set infinity ammo` and many others. You can also click on the first side button to quickly regenerate or you can click on this button twice to force all your and your horse's statuses, you can also click on the second side button to open a small interactive menu
 
