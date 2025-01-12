@@ -1,0 +1,33 @@
+local EnterExitVehicleFlags = {
+    None = 0,
+    RESUME_IF_INTERRUPTED = (1 << 0),
+    WARP_ENTRY_POINT = (1 << 1),
+    INTERRUPT_DURING_GET_IN = (1 << 2),
+    JACK_ANYONE = (1 << 3),
+    WARP_PED = (1 << 4),
+    INTERRUPT_DURING_GET_OUT = (1 << 5),
+    DONT_WAIT_FOR_VEHICLE_TO_STOP = (1 << 6),
+    ALLOW_EXTERIOR_ENTRY = (1 << 7),
+    DONT_CLOSE_DOOR = (1 << 8),
+    WARP_IF_DOOR_IS_BLOCKED = (1 << 9),
+    ENTER_USING_NAVMESH = (1 << 10),
+    JUMP_OUT = (1 << 12),
+    PREFER_DISMOUNT_SIDE_WITH_FEWER_PEDS = (1 << 14),
+    DONT_DEFAULT_WARP_IF_DOOR_BLOCKED = (1 << 16),
+    USE_LEFT_ENTRY = (1 << 17),
+    USE_RIGHT_ENTRY = (1 << 18),
+    JUST_PULL_PED_OUT = (1 << 19),
+    BLOCK_SEAT_SHUFFLING = (1 << 20),
+    WARP_IF_SHUFFLE_LINK_IS_BLOCKED = (1 << 22),
+    DONT_JACK_ANYONE = (1 << 23),
+    WAIT_FOR_ENTRY_POINT_TO_BE_CLEAR = (1 << 24),
+    USE_HITCH_DISMOUNT_VARIANT = (1 << 25),
+    EXIT_SEAT_ON_TO_VEHICLE = (1 << 26),
+    ALLOW_SCRIPTED_TASK_ABORT = (1 << 27),
+    WILL_SHOOT_AT_TARGET_PEDS = (1 << 28),
+    INTERRUPT_ALWAYS = (1 << 29),
+    IGNORE_ENTRY_FROM_CLOSEST_POINT = (1 << 30),
+    ALLOW_JACK_PLAYER_PED_ONLY = (1 << 31)
+}
+
+return EnterExitVehicleFlags

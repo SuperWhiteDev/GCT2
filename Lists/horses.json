@@ -1,0 +1,210 @@
+{
+    "American" : [
+        "A_C_Horse_AmericanPaint_Greyovero",
+        "A_C_Horse_AmericanPaint_Overo",
+        "A_C_Horse_AmericanPaint_SplashedWhite",
+        "A_C_Horse_AmericanPaint_Tobiano",
+        "A_C_Horse_AmericanStandardbred_Black",
+        "A_C_Horse_AmericanStandardbred_Buckskin",
+        "A_C_Horse_AmericanStandardbred_Lightbuckskin",
+        "A_C_Horse_AmericanStandardbred_PalominoDapple",
+        "A_C_Horse_AmericanStandardbred_SilverTailBuckskin"
+    ],
+    "Andalusian" : [
+        "A_C_Horse_Andalusian_DarkBay",
+        "A_C_Horse_Andalusian_Perlino",
+        "A_C_Horse_Andalusian_Perlino",
+        "A_C_Horse_Andalusian_RoseGray"
+    ],
+    "Appaloosa" : [
+        "A_C_Horse_Appaloosa_BlackSnowflake",
+        "A_C_Horse_Appaloosa_Blanket",
+        "A_C_Horse_Appaloosa_BrownLeopard",
+        "A_C_Horse_Appaloosa_FewSpotted_PC",
+        "A_C_Horse_Appaloosa_Leopard",
+        "A_C_Horse_Appaloosa_LeopardBlanket"
+    ],
+    "Arabian" : [
+        "A_C_Horse_Arabian_Black",
+        "A_C_Horse_Arabian_Grey",
+        "A_C_Horse_Arabian_RedChestnut",
+        "A_C_Horse_Arabian_RedChestnut_PC",
+        "A_C_Horse_Arabian_RoseGreyBay",
+        "A_C_Horse_Arabian_WarpedBrindle_PC",
+        "A_C_Horse_Arabian_White"
+    ],
+    "Ardennes": [
+        "A_C_Horse_Ardennes_BayRoan",
+        "A_C_Horse_Ardennes_IronGreyRoan",
+        "A_C_Horse_Ardennes_StrawberryRoan"
+    ],
+    "Belgian": [
+        "A_C_Horse_Belgian_BlondChestnut",
+        "A_C_Horse_Belgian_MealyChestnut"
+    ],
+    "Breton": [
+        "A_C_Horse_Breton_GrulloDun",
+        "A_C_Horse_Breton_MealyDappleBay",
+        "A_C_Horse_Breton_RedRoan",
+        "A_C_Horse_Breton_Sealbrown",
+        "A_C_Horse_Breton_Sorrel",
+        "A_C_Horse_Breton_SteelGrey"
+    ],
+    "Buell": [
+        "A_C_Horse_Buell_WarVets"
+    ],
+    "Criollo": [
+        "A_C_Horse_Criollo_Baybrindle",
+        "A_C_Horse_Criollo_Bayframeovero",
+        "A_C_Horse_Criollo_Blueroanovero",
+        "A_C_Horse_Criollo_Dun",
+        "A_C_Horse_Criollo_Marblesabino",
+        "A_C_Horse_Criollo_Sorrelovero"
+    ],
+    "DutchWarmblood": [
+        "A_C_Horse_DutchWarmblood_ChocolateRoan",
+        "A_C_Horse_DutchWarmblood_SealBrown",
+        "A_C_Horse_DutchWarmblood_SootyBuckskin"
+    ],
+    "Eagle": [
+        "A_C_Horse_EagleFlies"
+    ],
+    "Gang": [
+        "A_C_Horse_Gang_arthur",
+        "A_C_Horse_Gang_Bill",
+        "A_C_Horse_Gang_Charles",
+        "A_C_Horse_Gang_Charles_EndlessSummer",
+        "A_C_Horse_Gang_Hosea",
+        "A_C_Horse_Gang_Javier",
+        "A_C_Horse_Gang_John",
+        "A_C_Horse_Gang_Karen",
+        "A_C_Horse_Gang_Kieran",
+        "A_C_Horse_Gang_Micah",
+        "A_C_Horse_Gang_Sadie",
+        "A_C_Horse_Gang_Sean",
+        "A_C_Horse_Gang_Trelawney",
+        "A_C_Horse_Gang_Uncle",
+        "A_C_Horse_Gang_Uncle_EndlessSummer"
+    ],
+    "GypsyCob": [
+        "A_C_Horse_GypsyCob_PalominoBlagdon",
+        "A_C_Horse_GypsyCob_Piebald",
+        "A_C_Horse_GypsyCob_Skewbald",
+        "A_C_Horse_GypsyCob_SplashedBay",
+        "A_C_Horse_GypsyCob_SplashedPiebald",
+        "A_C_Horse_GypsyCob_WhiteBlagdon"
+    ],
+    "HungarianHalfbred": [
+        "A_C_Horse_HungarianHalfbred_DarkDappleGrey",
+        "A_C_Horse_HungarianHalfbred_FlaxenChestnut",
+        "A_C_Horse_HungarianHalfbred_LiverChestnut",
+        "A_C_Horse_HungarianHalfbred_PiebaldTobiano"
+    ],
+    "John": [
+        "A_C_Horse_John_EndlessSummer"
+    ],
+    "KentuckySaddle": [
+        "A_C_Horse_KentuckySaddle_Black",
+        "A_C_Horse_KentuckySaddle_ButterMilkBuckskin_PC",
+        "A_C_Horse_KentuckySaddle_ChestnutPinto",
+        "A_C_Horse_KentuckySaddle_Grey",
+        "A_C_Horse_KentuckySaddle_SilverBay"
+    ],
+    "Kladruber": [
+        "A_C_Horse_Kladruber_Black",
+        "A_C_Horse_Kladruber_Cremello",
+        "A_C_Horse_Kladruber_Dapplerosegrey",
+        "A_C_Horse_Kladruber_Grey",
+        "A_C_Horse_Kladruber_Silver",
+        "A_C_Horse_Kladruber_White"
+    ],
+    "MissouriFoxTrotter": [
+        "A_C_Horse_MissouriFoxTrotter_AmberChampagne",
+        "A_C_Horse_MissouriFoxTrotter_Blacktovero",
+        "A_C_HORSE_MISSOURIFOXTROTTER_BLUEROAN",
+        "A_C_Horse_MissouriFoxTrotter_Buckskinbrindle",
+        "A_C_HORSE_MISSOURIFOXTROTTER_DAPPLEGREY",
+        "A_C_Horse_MissouriFoxTrotter_SableChampagne",
+        "A_C_Horse_MissouriFoxTrotter_SilverDapplePinto"
+    ],
+    "Morgan": [
+        "A_C_Horse_Morgan_Bay",
+        "A_C_Horse_Morgan_BayRoan",
+        "A_C_Horse_Morgan_FlaxenChestnut",
+        "A_C_Horse_Morgan_LiverChestnut_PC",
+        "A_C_Horse_Morgan_Palomino"
+    ],
+    "MP_Mangy": [
+        "A_C_Horse_MP_Mangy_Backup"
+    ],
+    "MurfreeBrood": [
+        "A_C_Horse_MurfreeBrood_Mange_01",
+        "A_C_Horse_MurfreeBrood_Mange_02",
+        "A_C_Horse_MurfreeBrood_Mange_03"
+    ],
+    "Mustang": [
+        "A_C_HORSE_MUSTANG_BLACKOVERO",
+        "A_C_HORSE_MUSTANG_BUCKSKIN",
+        "A_C_HORSE_MUSTANG_CHESTNUTTOVERO",
+        "A_C_Horse_Mustang_GoldenDun",
+        "A_C_Horse_Mustang_GrulloDun",
+        "A_C_HORSE_MUSTANG_REDDUNOVERO",
+        "A_C_Horse_Mustang_TigerStripedBay",
+        "A_C_Horse_Mustang_WildBay"
+    ],
+    "Nokota": [
+        "A_C_Horse_Nokota_BlueRoan",
+        "A_C_Horse_Nokota_ReverseDappleRoan",
+        "A_C_Horse_Nokota_WhiteRoan"
+    ],
+    "NorfolkRoadster": [
+        "A_C_Horse_NorfolkRoadster_Black",
+        "A_C_Horse_NorfolkRoadster_DappledBuckskin",
+        "A_C_Horse_NorfolkRoadster_PiebaldRoan",
+        "A_C_Horse_NorfolkRoadster_RoseGrey",
+        "A_C_Horse_NorfolkRoadster_SpeckledGrey",
+        "A_C_Horse_NorfolkRoadster_SpottedTricolor"
+    ],
+    "Shire": [
+        "A_C_Horse_Shire_DarkBay",
+        "A_C_Horse_Shire_LightGrey",
+        "A_C_Horse_Shire_RavenBlack"
+    ],
+    "SuffolkPunch": [
+        "A_C_Horse_SuffolkPunch_RedChestnut",
+        "A_C_Horse_SuffolkPunch_Sorrel"
+    ],
+    "TennesseeWalker": [
+        "A_C_Horse_TennesseeWalker_BlackRabicano",
+        "A_C_Horse_TennesseeWalker_Chestnut",
+        "A_C_Horse_TennesseeWalker_DappleBay",
+        "A_C_Horse_TennesseeWalker_FlaxenRoan",
+        "A_C_Horse_TennesseeWalker_GoldPalomino_PC",
+        "A_C_Horse_TennesseeWalker_MahoganyBay",
+        "A_C_Horse_TennesseeWalker_RedRoan"
+    ],
+    "Thoroughbred": [
+        "A_C_Horse_Thoroughbred_BlackChestnut",
+        "A_C_Horse_Thoroughbred_BloodBay",
+        "A_C_Horse_Thoroughbred_Brindle",
+        "A_C_Horse_Thoroughbred_DappleGrey",
+        "A_C_Horse_Thoroughbred_ReverseDappleBlack"
+    ],
+    "Turkoman": [
+        "A_C_HORSE_TURKOMAN_BLACK",
+        "A_C_HORSE_TURKOMAN_CHESTNUT",
+        "A_C_Horse_Turkoman_DarkBay",
+        "A_C_Horse_Turkoman_Gold",
+        "A_C_HORSE_TURKOMAN_GREY",
+        "A_C_HORSE_TURKOMAN_PERLINO",
+        "A_C_Horse_Turkoman_Silver"
+    ],
+    "Extra": [
+        "A_C_Horse_Winter02_01",
+        "A_C_HorseMule_01",
+        "A_C_HorseMulePainted_01",
+        "MP_A_C_HORSECORPSE_01",
+        "MP_Horse_Owlhootvictim_01",
+        "P_C_Horse_01"
+    ]
+}

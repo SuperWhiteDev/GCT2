@@ -1,0 +1,39 @@
+# Commands
+
+- **`teleport`**: This function allows you to teleport to a selected position.
+- **`save current place`**: This function saves the current position of the player so that you can teleport to it with the `teleport` command.
+- **`give weapon`**: This function asks you for the name of the weapon model you want to get and gives it to you (only in singleplayer).
+- **`add ammo`**: This function adds the specified number of rounds to the current weapon (only in singleplayer).
+- **`set infinity ammo`**: This function sets infinite ammunition for the weapon.
+- **`set infinity clip`**: This function sets infinite ammunition in the weapon clip.
+- **`clean weapon`**: This function cleans the player's current weapon.
+- **`get entity aiming for`**: This function loops until the Escape key is pressed and displays the ID of the entity the player is aiming at.
+- **`explosive ammo`**: This function makes all your bullets explosive.
+- **`fire ammo`**: This function makes all your bullets incendiary.
+- **`rapid fire`**: This function doubles the number of bullets fired from a weapon.
+- **`vehicles`**: This function provides the ability to manage all created vehicles.
+- **`add vehicle to list`**: This function adds a vehicle by its ID to the list of vehicles.
+- **`create vehicle`**: You can create a vehicle with this function.
+- **`fix vehicle`**: This function repairs the vehicle the player is in.
+- **`peds`**: This function provides the ability to manage all created peds and horses.
+- **`add ped to list`**: This function adds a ped by its ID to the list of peds.
+- **`create ped`**: You can create a ped with this function.
+- **`create horse`**: You can create a horse with this function.
+- **`bodyguards`**: This function provides the ability to manage all created bodyguards.
+- **`create bodyguard`**: You can create a bodyguard with this function.
+- **`objects`**: This function provides the ability to manage all created objects.
+- **`add object to list`**: This function adds an object by its ID to the list of objects.
+- **`create object`**: You can create an object with this function.
+- **`drop one gold`**: This function gives one gold bar.
+- **`drop gold`**: This function will give bars of gold for a specified period of time.
+- **`set time`**: This function sets the time in the game.
+- **`set weather`**: This function sets the weather in the game.
+- **`set wind speed`**: This function sets the wind speed in the game.
+- **`set snow`**: This function applies snow throughout the game world.
+- **`freeze time`**: This function stops the time change.
+- **`freeze weather`**: This function stops the weather from changing.
+- **`save model`**: This function saves the player's model.
+- **`change model`**: This function changes the player's model.
+- **`outfit`**: This function allows you to select an outfit for the player.
+- **`god mode`**: This function makes the player invincible.
+- **`auto heal`**: This function automatically restores the player's health when he loses more than half of it.
